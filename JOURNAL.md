@@ -10,3 +10,8 @@ Tech journey
 - Write tests
 - Deploy on cloud
 - User testing
+
+References
+- See https://github.com/Gizra/elm-hedley for how to use leaflet in elm
+- See this to understand how to see http requests made by an app in android https://httptoolkit.com/blog/inspect-any-android-apps-http/
+
