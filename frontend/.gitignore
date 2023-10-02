@@ -3,6 +3,7 @@ elm-stuff
 node_modules
 public/dist
 .elm-spa
+.idea
 
 # MacOS weird stuff
 .DS_Store
