@@ -1,5 +1,8 @@
-.DS_Store
-.elm-spa
+# Folders to ignore
 elm-stuff
 node_modules
-dist
+public/dist
+.elm-spa
+
+# MacOS weird stuff
+.DS_Store
